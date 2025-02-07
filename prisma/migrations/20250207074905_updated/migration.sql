@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE "Keypair" ALTER COLUMN "value" SET DATA TYPE TEXT;
